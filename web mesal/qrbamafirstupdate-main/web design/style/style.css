@@ -1,0 +1,112 @@
+* {
+  font-family: Vazirmatn;
+  direction: rtl;
+}
+h1 {
+  color: rgb(32, 32, 70);
+}
+h2 {
+  color: rgb(32, 32, 70);
+}
+h3 {
+  color: rgb(32, 32, 70);
+}
+h4 {
+  color: rgb(32, 32, 70);
+}
+
+p {
+  color: rgb(102, 100, 100);
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+#headerlogo {
+  margin-right: 8cm;
+  padding-top: 1%;
+}
+#firstpage {
+  margin-right: 6cm;
+}
+.headbanner {
+  display: inline-block;
+  margin-bottom: 1%;
+  padding-right: 50px;
+  text-decoration-line: none;
+}
+#homepage {
+  padding-bottom: 5cm;
+  padding-right: 3cm;
+  padding-top: 14cm;
+  background-color: rgba(112, 214, 255, 0.76);
+  background-image: url(https://qrbama.com/template/images/home_social/banner_img/img_1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 32%;
+}
+.bottomhover:hover {
+  background-color: rgba(65, 65, 199, 0.452);
+  color: white;
+  box-shadow: 2px 2px rgba(255, 255, 255, 0.61);
+  text-shadow: rgba(128, 128, 128, 0.644);
+}
+h2 {
+  text-align: center;
+  margin-top: 3cm;
+  font-size: 60px;
+  font-weight: bolder;
+}
+.introduction {
+  padding-right: 20px;
+  padding-left: 20px;
+  text-align: center;
+  font-size: 18;
+}
+.introductionimg {
+  width: 400px;
+}
+#introductionimg {
+  width: 8cm;
+}
+#customers {
+  padding-bottom: 8cm;
+  padding-left: 20%;
+  margin-top: 6cm;
+  text-align: center;
+  font-size: 18px;
+}
+.customersname {
+  margin-right: 2.5cm;
+  text-decoration-line: none;
+}
+.customerslogo {
+  padding-left: 80px;
+  padding-top: 3px;
+}
+.undercustomerslogotext {
+  text-align: center;
+  padding-right: 2.5cm;
+  padding-bottom: 0.5cm;
+}
+#digitalmenu {
+  padding-left: 6cm;
+  margin-right: 10cm;
+  margin-bottom: 3cm;
+}
+.digitalmenutext {
+  background-image: url(https://qrbama.com/uploaded_files/asd.png);
+  background-repeat: no-repeat;
+  background-size: 6cm;
+  border-color: rgb(102, 94, 94);
+  padding-left: 8cm;
+  padding-top: 6cm;
+  font-size: 19px;
+}
+footer {
+  background-color: rgba(206, 199, 199, 0.411);
+}
+.footer {
+  text-decoration-line: none;
+  padding-right: 1.3cm;
+}
